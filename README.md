@@ -1,6 +1,6 @@
 #Hi there, I'm di0mantik
-![Описание](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 ###Computer science student from Russia
+___
 [![GitHub Streak](https://streak-stats.demolab.com?user=DemonKingStudio&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 <!--
